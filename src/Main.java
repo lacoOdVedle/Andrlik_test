@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        //5. Zadání
         //1D pole řetezců
         String[] slova = {"kanec", "žába", "tučňák", "kočka"};
         System.out.println((String.join(" - ", slova)));
